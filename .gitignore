@@ -18,7 +18,7 @@ consistency_corellation/fft/sound2.wav
 consistency_corellation/gzip/data
 consistency_corellation/jpeg/data
 consistency_corellation/hmmer/uniprot_sprot.fasta
-irace/
+
 old_runs/
 consistency_corellation/results/sha/input_large.asc
 consistency_corellation/results/sha/input_small.asc

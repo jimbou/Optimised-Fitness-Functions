@@ -47,6 +47,8 @@ Everything you need to know about Magpie and the new Optimised Fitness Function 
 - [Analysis Methodology](./docs/results/analysis_methodology.md)
 - [Understanding the Results](./docs/results/understanding_results.md)
 - [Test on Irace](./irace/)
+
+  
 **Tutorials**
 
 - [Quick start](./docs/tutorials/quick_start.md) **(start here!)**

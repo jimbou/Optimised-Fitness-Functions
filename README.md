@@ -7,7 +7,7 @@
 ## Introduction
 
 We are integrating 13 measures and the retry parameter into MAGPIE and performing experiments on 7 benchmarks.
-We also performed consistency and correlation to rutnime experiments for the 13 measures + linus time.
+We also performed consistency and correlation to rutnime experiments for the 13 measures + linux time.
 
 Magpie is a tool for automated software improvement.
 It implements [MAGPIE](#citation), using the genetic improvement methodology to traverse the search space of different software variants to find improved software.
